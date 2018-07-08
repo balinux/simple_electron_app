@@ -15,4 +15,4 @@ npm start
 
 ## no pict = hoax 
 
-![enter image description here](https://www.google.co.id/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![see here](https://github.com/balinux/simple_electron_app/blob/master/electron2.gif)
